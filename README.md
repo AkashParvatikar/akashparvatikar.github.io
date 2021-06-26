@@ -1,1 +1,0 @@
-# akashparvatikar.github.io
