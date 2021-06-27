@@ -5,12 +5,20 @@
     <link>https://akashparvatikar.github.io/tag/atypical-breast-lesions/</link>
       <atom:link href="https://akashparvatikar.github.io/tag/atypical-breast-lesions/index.xml" rel="self" type="application/rss+xml" />
     <description>Atypical Breast Lesions</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 11:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://akashparvatikar.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Atypical Breast Lesions</title>
       <link>https://akashparvatikar.github.io/tag/atypical-breast-lesions/</link>
     </image>
+    
+    <item>
+      <title>Modeling Histological Patterns for Differential Diagnosis of Atypical Breast Lesions</title>
+      <link>https://akashparvatikar.github.io/publication/example/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://akashparvatikar.github.io/publication/example/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Oral Talk - MICCAI Conference</title>
@@ -19,6 +27,14 @@
       <guid>https://akashparvatikar.github.io/talk/oral-talk-miccai-conference/</guid>
       <description>&lt;!-- &lt;iframe src=&#34;https://drive.google.com/file/d/19_A9486v_Q52TPX5JGTMaEAl163Sfxbh/view?usp=sharing&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt; --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Prototypical models for classifying high-risk atypical breast lesions</title>
+      <link>https://akashparvatikar.github.io/publication/miccai2/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://akashparvatikar.github.io/publication/miccai2/</guid>
+      <description></description>
     </item>
     
   </channel>
